@@ -1,0 +1,17 @@
+{
+  "name": "@maybejaybe/final-assessment",
+  "version": "1.0.2",
+  "description": "final assessment for acs 3310, iterating numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+  }
+}
